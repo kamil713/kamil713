@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a target="_blank" href="https://kamil713.dev">me</a> .
-    <a target="_blank" href="https://kamil713/blog">blog</a> .    
+    <a target="_blank" href="https://kamil713.dev/blog">blog</a> .    
     <a href="mailto:kam.pietrz@gmail.com">contact</a>
   </samp>
 </p>
